@@ -1,5 +1,6 @@
 <h1 align="center">
     <img alt="Podcastr" title="Podcastr" src=".github/podcastr.svg" />
+    
 </h1>
 
 <p align="center">
@@ -29,8 +30,10 @@
 This project was developed using the following technologies:
 
 - [Next.js](https://nextjs.org/)
-- [React](https://reactjs.org)
+- [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+
+
 
 ## 🚀 Getting started
 
@@ -45,14 +48,18 @@ Follow the steps below
 ```bash
 # Install the dependencies
 $ yarn
+```
 
+ou
+
+```bash
 # Start the project
 $ yarn dev
 ```
 
 ## 💻 Project
 
-[Podcastr](https://podcastr-nlw.vercel.app/) to bring you even closer to the best technology podcasts! 💜
+[Podcastr](https://podcastr-nlw.vercel.app/) to bring you even closer to the best technology podcasts!
 
 This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
 
@@ -70,4 +77,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ---
 
-<p align="center">Made with 💜 by Eduardo Rocha</p>s
+<p align="center">Forked by Eduardo Rocha of Guilherme Capitão repository</p>
