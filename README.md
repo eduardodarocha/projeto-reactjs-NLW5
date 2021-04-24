@@ -50,7 +50,10 @@ Follow the steps below
 $ yarn
 ```
 
-ou
+```bash
+# Run the JSON server
+$ yarn server
+```
 
 ```bash
 # Start the project
