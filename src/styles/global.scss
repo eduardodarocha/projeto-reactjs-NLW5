@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-:root {
+ :root {
     --white: #FFF;
     --gray-50: #F7F8FA;
     --gray-100: #E6E8EB;
@@ -30,6 +30,11 @@
     }
 }
 
+// @media (max-width: 1366px) {
+//   html {
+//     font-size: 80%;
+//   }
+// }
 body {
     background: var(--gray-50);
 }
